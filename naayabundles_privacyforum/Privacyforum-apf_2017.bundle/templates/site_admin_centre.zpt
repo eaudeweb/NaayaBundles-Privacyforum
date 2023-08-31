@@ -8,9 +8,9 @@
 <!-- PRIVACY forum -->
 <p><strong i18n:translate="">Administration manual</strong></p>
 <ul>
-  <li><a href="https://svn.eionet.europa.eu/repositories/Naaya/buildout/enisa-privacy-forum/doc/Naaya_administrator_manual_-_Privacy_Forum.pdf"
+  <li><a href="https://github.com/eaudeweb/naaya.buildout.enisa-privacy-forum/raw/master/doc/Naaya_administrator_manual_-_Privacy_Forum.pdf"
          title="Administration manual" i18n:translate="">Administration manual - Privacy Forum.pdf</a></li>
-  <li><a href="https://svn.eionet.europa.eu/repositories/Naaya/buildout/enisa-privacy-forum/doc/Naaya_administrator_manual_-_Privacy_Forum.odt"
+  <li><a href="https://github.com/eaudeweb/naaya.buildout.enisa-privacy-forum/raw/master/doc/Naaya_administrator_manual_-_Privacy_Forum.odt"
          title="Administration manual" i18n:translate="">Administration manual - Privacy Forum.odt</a></li>
 </ul>
 
